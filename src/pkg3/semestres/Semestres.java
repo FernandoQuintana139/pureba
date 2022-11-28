@@ -19,6 +19,9 @@ public class Semestres {
             System.out.println("hola mundo 3 semestres");
             System.out.println("wwww");
             System.out.println("Adrian es GAY")
+                if(eres==adrian){
+                true;
+                }
     }
     
 }
