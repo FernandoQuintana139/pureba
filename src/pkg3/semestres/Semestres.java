@@ -20,7 +20,7 @@ public class Semestres {
             System.out.println("wwww");
             System.out.println("Adrian es GAY")
                 if(eres==adrian){
-                true gay;
+                System.out.println("Adrian: mi sueño es ser como alex")
                 }
     }
     
