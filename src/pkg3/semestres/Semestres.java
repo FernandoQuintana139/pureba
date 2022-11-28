@@ -18,10 +18,7 @@ public class Semestres {
         // TODO code application logic here
             System.out.println("hola mundo 3 semestres");
             System.out.println("wwww");
-            System.out.println("Adrian es GAY")
-                if(eres==adrian){
-                System.out.println("Adrian: mi sueño es ser como alex")
-                }
+           UWU
     }
     
 }
